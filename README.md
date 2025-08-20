@@ -6,7 +6,7 @@ Additionally, it **simulates traffic congestion** by assigning random traffic le
 
 ---
 
-## ✨ Features
+##  Features
 - **Graph-based city map** with locations and distances.  
 - **Shortest path calculation** using A* search.  
 - **Traffic simulation**: Each node gets a random traffic value between `0.0` (free) and `1.0` (jam).  
@@ -17,7 +17,7 @@ Additionally, it **simulates traffic congestion** by assigning random traffic le
 
 ---
 
-## 🧠 Algorithms Used
+##  Algorithms Used
 
 ### 1. Graph Representation
 - The city is modeled as a **graph**:
@@ -41,7 +41,7 @@ Additionally, it **simulates traffic congestion** by assigning random traffic le
 
 ---
 
-## 🏗️ Build Instructions
+##  Build Instructions
 
 ### Requirements
 - A **C++17 or later** compiler (g++, clang++, or MSVC).  
